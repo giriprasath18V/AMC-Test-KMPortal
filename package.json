@@ -1,5 +1,5 @@
 {
-  "homepage": "https://giriprasath18V/github.io/AMC-Test-KMPortal",
+
   "name": "arcticvault-cold-storage",
   "private": true,
   "version": "0.0.0",
@@ -40,9 +40,9 @@
     "typescript-eslint": "^8.3.0",
     "vite": "^5.4.2"
   },
-  "homepage": "https://github.com/yourusername/arcticvault-cold-storage",
+  "homepage": "https://giriprasath18V/github.io/AMC-Test-KMPortal",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/arcticvault-cold-storage.git"
+    "url": "https://github.com/giriprasath18V/AMC-Test-KMPortal.git"
   }
 }
